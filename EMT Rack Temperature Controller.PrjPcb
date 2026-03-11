@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for EMT Rack Temperature Controller
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -91,6 +91,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for EMT Rack Temperature Controller\Bill of Material\Rack Temperature & Fan Controller_BoM_Rev.1.0._2026-03-11.xlsx
+DItemRevisionGUID=
+
 [Parameter1]
 Name=DrawingScale
 Value=1:1
@@ -118,7 +122,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for EMT Rack Temperature Controller
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
